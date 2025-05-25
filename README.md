@@ -1,5 +1,4 @@
 # flashcard-language-translator
-# Flashcard Language Translator
 
 This is an interactive language-learning flashcard app built using Python and Tkinter. It helps users learn French vocabulary by flipping flashcards with audio pronunciation.
 
