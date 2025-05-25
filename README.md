@@ -24,6 +24,16 @@ This is an interactive language-learning flashcard app built using Python and Tk
 - `words_to_learn.csv`: Generated when you miss words
 - `prep_dataset.py`: Script to extract data from `fra.txt` (optional)
 
+## Dataset Attribution
+
+This project uses sentence pairs originally from the **[Tatoeba Project](https://tatoeba.org/)**, distributed by **[ManyThings.org](https://www.manythings.org/anki/)**.
+
+Due to licensing terms, the dataset is **not included in this repository**.
+
+To run the project:
+1. Download `fra.txt` from [this link](https://www.manythings.org/anki/)
+2. Use `prep_dataset.py` to generate `french_words.csv`
+
 ##  Requirements
 
 Install dependencies:
